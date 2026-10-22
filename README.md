@@ -3,7 +3,7 @@
 <p align="center">A non-custodial trading terminal for Robinhood Chain.</p>
 <p align="center"><a href="https://mimotrade.io">mimotrade.io</a> · <a href="web/README.md">Documentation</a> · <a href="SECURITY.md">Report a vulnerability</a></p>
 
-![The MIMO trade terminal](web/public/screens/trade.png)
+![The MIMO trade terminal](public/screens/trade.png)
 
 MIMO trades crypto, Robinhood Stock Tokens and new launches on Robinhood Chain (chain ID 4663) through Uniswap v2, v3 and v4. Your wallet signs every transaction. MIMO never holds keys or funds, and charges no fee of its own.
 
